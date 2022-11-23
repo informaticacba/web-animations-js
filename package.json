@@ -27,7 +27,7 @@
     "grunt-gjslint": "^0.2.1",
     "closure-linter-wrapper": "^1.0.0",
     "grunt-karma": "3.x",
-    "karma": "4.x",
+    "karma": "6.x",
     "karma-mocha": "^0.1.3",
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "~0.1.4",
